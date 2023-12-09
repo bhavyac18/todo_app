@@ -1,1 +1,3 @@
-# todo_app
+# ToDo App
+
+## Description
